@@ -1,30 +1,22 @@
+## Olá eu sou o Marcos Vinicius  😊
 
-### Olá! Eu sou o Marcos Vinicius 🙋🏾‍♂️
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/marcos-vinicius-742192245/)
 
-<a href="https://www.linkedin.com/in/marcos-vinicius-742192245/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosviniciussdeveloper&show_icons=true&theme=dracula)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#][(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MYSQl](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosviniciussdeveloper&show_icons=true&theme=highcontrast)
 
-## Tecnologias utilizadas no meu dia a dia 
+## SOFT SKILLS
 
-<div>
-    <img style="display: inline-block;" align="center" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-    <img style="display: inline-block;" align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img style="display: inline-block;" align="center" alt="Git" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<div style = "display : inline_block"><br/>
+<img align = "center" alt = "C#" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black"/>
+<img align = "center" alt = ".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img align = "center" alt = "JAVA" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align = "center" alt = "MYSQL" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align = "center" alt = "MICROSOFT SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div><br/>
 
-Sou um jovem curioso apaixonado por tecnologia, e através da tecnologia da informação, busco transformar vidas.
 
-## Ultimas atualizações na carreira :
-
-- Iniciando na linguagem de programação java 
-
+## ULTIMAS ATUALIZAÇÕES NA CARREIRA :
+ 
+- [Inicio nos estudos com  -C #]() <br/>
+- [Crição do primeiro projeto na linguagem C# com .Net]() </br>
