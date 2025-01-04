@@ -19,4 +19,5 @@
 ## ULTIMAS ATUALIZAÇÕES NA CARREIRA :
  
 - [Inicio nos estudos com  -C #]() <br/>
-- [Crição do primeiro projeto na linguagem C# com .Net]() </br>
+- [Primeiro projeto na linguagem C# com .Net , concluido]() </br>
+- [Realizando um novo estudo sobre C# .Net com Blazor Page Web]() </br>
