@@ -1,9 +1,4 @@
-<h1 align="center">Olá, eu sou o Marcos Vinicius 😊</h1>
-<p align="center">Desenvolvedor backend focado em C# | .NET | PostgreSQL | APIs REST</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcos-vinicius-742192245/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:marcosviniciuss.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
 
 ---
 
