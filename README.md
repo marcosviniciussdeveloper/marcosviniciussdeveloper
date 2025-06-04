@@ -68,6 +68,6 @@ Sou apaixonado por tecnologia, desenvolvimento backend e soluções baseadas em 
 
 ## ULTIMAS ATUALIZAÇÕES NA CARREIRA :
  
-- [Inicio nos estudos com  -C #]() <br/>
-- [Primeiro projeto na linguagem C# com .Net , concluido]() </br>
-- [Realizando um novo estudo sobre C# .Net com Blazor Page Web]() </br>
+- [Especialização em  -C #]() <br/>
+- [Partipação em um projeto de APiReal]() </br>
+- [Estudando pra me certificar em Azure]() </br>
