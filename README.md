@@ -6,7 +6,7 @@
 
 Sou apaixonado por tecnologia, desenvolvimento backend e soluções baseadas em APIs. Tenho focado meus estudos e projetos no ecossistema .NET, buscando sempre boas práticas e arquitetura limpa.
 
-- 🧠 Atualmente estudando: .NET 8, EF Core, Clean Architecture  
+- 🧠 Atualmente estudando: .NET 10, EF Core, Clean Architecture , Api Rest full  
 - 🔨 Projetos atuais: MeuPontoOnline, API de Reconhecimento Facial  
 - 🌍 Abertura para colaborações e projetos voluntários
 
