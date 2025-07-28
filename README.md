@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia, desenvolvimento backend e soluções baseadas em 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [MeuCombustivelApiRest](https://github.com/marcosviniciussdeveloper/GestaoDeCombustivelApp) Um BackEnd baseado em uma api para controle de combustivel|
+| [MeuCombustivelApiRest](https://github.com/marcosviniciussdeveloper/GestaoDeCombustivelApp) |Um BackEnd baseado em uma api para controle de combustivel|
 | [MeuPontoOnline](https://github.com/marcosviniciusssdeveloper/MeuPontoOnline) | Sistema de ponto eletrônico com reconhecimento facial e geolocalização | .NET, PostgreSQL, Supabase, Swagger |
 | [API-CRUD-C#](https://github.com/marcosviniciusssdeveloper/API-CRUD-C-) | CRUD com arquitetura em camadas | .NET, EF Core, PostgreSQL |
 | [AgendamentoApi](https://github.com/marcosviniciusssdeveloper/AgendamentoApi) | API para agendamento de serviços | ASP.NET Core, MySQL |
