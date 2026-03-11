@@ -52,6 +52,6 @@ Tenho sólida experiência em **Troubleshooting de alta complexidade** e adminis
 
 ### 📧 Vamos conversar?
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/marcosviniciussdev/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcosviniciussdev/)
 - 📧 marcosviniciuss.dev@gmail.com
 - ⭐ Deixe uma estrela nos meus repositórios se você gostar do que encontrar!
