@@ -14,19 +14,23 @@ Atualmente, estou a direcionar os meus estudos e práticas para a cultura **DevO
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Cloud & Infraestrutura (Ferramentas de Estudo e Prática)**
-- Nuvem: **AWS** (Conceitos essenciais: VPC, EC2, S3, IAM, SSM)
-- Provisionamento Básicos: **Terraform** (Laboratórios de IaC)
-- Containers: **Docker** / **Docker Compose**
-- Sistemas Operacionais: **Linux (Ubuntu/Debian)** e automação com **Shell Scripting / Bash**
+#### ☁️ Cloud & Infraestrutura (Ferramentas de Estudo e Prática)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**CI/CD & Observabilidade**
-- Pipelines: **GitHub Actions** (Esteiras automatizadas básicas)
-- Monitoração: Laboratórios e estudos práticos com **Prometheus** & **Grafana**
+#### 📊 CI/CD & Observabilidade
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Desenvolvimento Backend & Bancos de Dados**
-- Linguagens & Frameworks: **C#**, **.NET 8**, **ASP.NET Core** (Criação de APIs RESTful e Clean Architecture)
-- Bancos de Dados: **PostgreSQL**, **SQL Server** e **MySQL** (Troubleshooting, consultas e otimizações básicas de queries)
+#### 💻 Desenvolvimento Backend & Bancos de Dados
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&white)
 
 ---
 
@@ -36,9 +40,9 @@ Atualmente, estou a direcionar os meus estudos e práticas para a cultura **DevO
 *API desenvolvida em .NET 8 para upload seguro de objetos no S3, estruturada em laboratório local e AWS.*
 - **O que foi feito:** Configuração de deploy em instância EC2 dentro de uma **VPC Privada** (sem exposição direta para a internet). Implementação de controle de acessos via **IAM Roles** sem chaves expostas no código e uso do **AWS SSM** para acesso administrativo seguro. Ambiente encapsulado com **Docker**.
 
-#### 🕒 [MeuPontoOnline](https://github.com/marcosviniciusssdeveloper/MeuPontoOnline)
-*Aplicação de ponto online para estudos práticos focado em estruturação backend.*
-- **O que foi feito:** Desenvolvimento da lógica de dados em C#/.NET, persistência utilizando **PostgreSQL** e automação básica de validação do código via **GitHub Actions**.
+#### ⛽ [MeuCombustivelApi](https://github.com/marcosviniciussdeveloper/GestaoDeCombustivelApp)
+*Backend RESTful estruturado em camadas para controle e gestão de registros de combustível.*
+- **O que foi feito:** Criação de endpoints estruturados utilizando **ASP.NET Core**, persistência lógica de dados e documentação interativa das chamadas de API através do **Swagger**.
 
 ---
 
