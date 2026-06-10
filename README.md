@@ -1,57 +1,56 @@
-# Olá, eu sou o Marcos Vinicius! 👋
+# Olá, eu sou o Marcos Vinícius! 🚀
 
 ### 👨‍💼 Sobre Mim
 
-Sou um **Analista de Suporte N3** especializado em soluções de infraestrutura e entusiasta do desenvolvimento Backend. Atualmente, foco minha carreira na intersecção entre o código e a operação, buscando me tornar um **Engenheiro DevOps**.
+Sou **Analista de Sustentação N3** focado em garantir a estabilidade e o bom funcionamento de ambientes de produção. Com mais de 4 anos de experiência na linha de frente resolvendo incidentes, atuo na análise profunda de logs e troubleshooting para mitigar falhas técnicas em sistemas corporativos.
 
-Tenho sólida experiência em **Troubleshooting de alta complexidade** e administração de sistemas **Linux**, unindo esse conhecimento ao poder do ecossistema **.NET** para criar soluções escaláveis e resilientes.
+Atualmente, estou a direcionar os meus estudos e práticas para a cultura **DevOps e Cloud**, unindo o meu conhecimento prático em sistemas operacionais e bancos de dados com automação e infraestrutura moderna.
 
-- 🧠 **Foco Atual:** AWS Cloud Practitioner (CLF-C02) & Arquitetura de Microserviços com .NET.
-- 🔨 **Projetos:** Focados em APIs RESTful, Clean Architecture e Integração com Cloud Providers.
-- ⚡ **Diferencial:** Visão 360º (Entendo a dor do suporte, a lógica do código e a necessidade da infra).
+- ☁️ **Estudos em Cloud:** AWS Certified Cloud Practitioner. Concluí o programa prático AWS re/Start (300h) voltado para redes, segurança e nuvem.
+- ⚙️ **Foco Operacional:** Atuação focada em redução de MTTR e cumprimento de SLAs em ambientes de alta criticidade.
+- 🔧 **Prática Diária:** Automação de processos internos através de scripts em Linux e pequenas ferramentas em C#.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### 💻 Desenvolvimento & Backend
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+**Cloud & Infraestrutura (Ferramentas de Estudo e Prática)**
+- Nuvem: **AWS** (Conceitos essenciais: VPC, EC2, S3, IAM, SSM)
+- Provisionamento Básicos: **Terraform** (Laboratórios de IaC)
+- Containers: **Docker** / **Docker Compose**
+- Sistemas Operacionais: **Linux (Ubuntu/Debian)** e automação com **Shell Scripting / Bash**
 
-#### ☁️ Cloud & Infraestrutura (DevOps Mindset)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure&logoColor=white)
+**CI/CD & Observabilidade**
+- Pipelines: **GitHub Actions** (Esteiras automatizadas básicas)
+- Monitoração: Laboratórios e estudos práticos com **Prometheus** & **Grafana**
 
-#### 🗄️ Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
+**Desenvolvimento Backend & Bancos de Dados**
+- Linguagens & Frameworks: **C#**, **.NET 8**, **ASP.NET Core** (Criação de APIs RESTful e Clean Architecture)
+- Bancos de Dados: **PostgreSQL**, **SQL Server** e **MySQL** (Troubleshooting, consultas e otimizações básicas de queries)
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack Principal |
-|--------|-----------|-------------|
-| [MeuPontoOnline](https://github.com/marcosviniciusssdeveloper/MeuPontoOnline) | Sistema de ponto com reconhecimento facial e geolocalização. | .NET, PostgreSQL, Supabase |
-| [MeuCombustivelApi](https://github.com/marcosviniciussdeveloper/GestaoDeCombustivelApp) | Backend RESTful para controle e gestão de combustível. | ASP.NET Core, Swagger |
-| [API-CRUD-C#](https://github.com/marcosviniciusssdeveloper/API-CRUD-C-) | Implementação de CRUD utilizando arquitetura em camadas. | EF Core, PostgreSQL |
+#### 📡 [AWS Private S3 Uplink API](https://github.com/marcosviniciussdeveloper/aws-private-s3-uplink)
+*API desenvolvida em .NET 8 para upload seguro de objetos no S3, estruturada em laboratório local e AWS.*
+- **O que foi feito:** Configuração de deploy em instância EC2 dentro de uma **VPC Privada** (sem exposição direta para a internet). Implementação de controle de acessos via **IAM Roles** sem chaves expostas no código e uso do **AWS SSM** para acesso administrativo seguro. Ambiente encapsulado com **Docker**.
+
+#### 🕒 [MeuPontoOnline](https://github.com/marcosviniciusssdeveloper/MeuPontoOnline)
+*Aplicação de ponto online para estudos práticos focado em estruturação backend.*
+- **O que foi feito:** Desenvolvimento da lógica de dados em C#/.NET, persistência utilizando **PostgreSQL** e automação básica de validação do código via **GitHub Actions**.
 
 ---
 
-### 📈 Conquistas & Certificações
+### 🎓 Formação & Conquistas
 
-- 🎓 **Especialização C#:** Foco em lógica avançada e POO.
-- 🐧 **Linux Admin:** Domínio de permissões, gestão de usuários e automação Shell (via LabEx).
-- ☁️ **AWS Journey:** Em preparação para a certificação **AWS Cloud Practitioner**.
+- 🎓 **AWS Certified Cloud Practitioner** — Amazon Web Services (Credencial Oficial)
+- 🎓 **AWS re/Start Graduate** — Curso prático de 300 horas focado em fundamentos de nuvem e operações de TI (Parceria Escola da Nuvem / AWS).
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Faculdade Visconde de Cairu (Conclusão em 2026).
 
 ---
 
-### 📧 Vamos conversar?
+### 📧 Vamos Conversar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcosviniciussdev/)
 - 📧 marcosviniciuss.dev@gmail.com
-- ⭐ Deixe uma estrela nos meus repositórios se você gostar do que encontrar!
